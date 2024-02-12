@@ -1,0 +1,25 @@
+#header-nav{
+    position: fixed;
+    /* width: calc(100% - 250px); */
+    z-index: 900;
+    transition: margin-left 0.5s ease;
+    background-color: whitesmoke;
+    border: 1px solid yellow;
+    top: 0;
+    border: 1px solid rgb(124, 124, 107);
+} 
+
+        
+.session{
+    background-color: #ebd48e;
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+    #lgOut-btn{
+      margin-left: 40px;
+      margin-top: 10px;
+    }
+  }

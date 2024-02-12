@@ -1,0 +1,12 @@
+@media only screen and (max-width: 900px) {
+  #inputs-row {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  #UserDetail {
+    margin-top: 140px !important;
+  }
+}

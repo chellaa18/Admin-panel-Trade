@@ -1,0 +1,10 @@
+.nav-item{
+    border: 1px solid rgb(199, 199, 209);
+    border-radius: 10px;
+}
+
+ul .nav-item .active{
+    border: 1px solid blue !important;
+    border-radius: 10px;
+    outline: blue;
+}
