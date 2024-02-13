@@ -1,0 +1,641 @@
+LOG TRUNCATED
+[0mGET /clearLogsPm2 [32m200 [0m7.192 ms - 9[0m
+[0mGET /logsPm2 [32m200 [0m1.467 ms - 66[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mGET /errorLogs [32m200 [0m8.882 ms - 73413[0m
+[0mGET /clearErrorLogs [32m200 [0m3.053 ms - 9[0m
+[0mGET /errorLogs [32m200 [0m1.247 ms - 14[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+ReferenceError: mongoSanitize is not defined
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mGET /errorLogs [32m200 [0m10.161 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.336 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.922 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.642 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.732 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.524 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.447 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.679 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.087 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.747 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.640 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.594 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.093 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.757 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.492 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.502 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.627 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.851 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.465 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.753 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.486 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.585 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.088 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.844 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.447 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.530 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.085 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.255 ms - 13934[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mGET /errorLogs [32m200 [0m10.595 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.338 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.969 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.439 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.672 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.845 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.180 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.646 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.368 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.947 ms - 13934[0m
+[0mGET /errorLogs [33m429 [0m1.510 ms - 42[0m
+[0mGET /errorLogs [33m429 [0m2.394 ms - 42[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/createNewUser [32m200 [0m104.913 ms - 257[0m
+[0mPOST /users/getAllUserDetails [32m200 [0m2.685 ms - 66[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/getAllUserDetails [32m200 [0m40.132 ms - 251[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/getAllUserDetails [32m200 [0m42.425 ms - 261[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/createNewUser [32m200 [0m108.475 ms - 257[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/createNewUser [32m200 [0m45.967 ms - 63[0m
+[0mPOST /users/updateUserDetails [32m200 [0m17.380 ms - 48[0m
+[0mPOST /users/updateUserDetails [32m200 [0m5.397 ms - 48[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+🚀 ~ userModel.updateOne ~ userData: { n: 1, nModified: 1, ok: 1 }
+[0mPOST /users/updateUserDetails [32m200 [0m35.721 ms - 48[0m
+🚀 ~ userModel.updateOne ~ userData: { n: 1, nModified: 1, ok: 1 }
+[0mPOST /users/updateUserDetails [32m200 [0m6.151 ms - 48[0m
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/devel-sabarinathan/Desktop/Node Projects/Backend/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/routes/users.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/devel-sabarinathan/Desktop/Node Projects/Backend/app.js:20:19)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/updateUserDetails [32m200 [0m31.471 ms - 66[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/createNewUser [32m200 [0m47.502 ms - 275[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+🚀 ~ returnnewPromise ~ tok: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NWM2MWM2YTczNWZiNjdiNGU4ZDdlODEiLCJpYXQiOjE3MDc0ODIyMTgsImV4cCI6MTcwNzU2ODYxOH0.-uDkTgvJA5gE9Dkx5wkWD_NOWRZjKMG50xKysKy7c5M
+[0mPOST /users/createNewUser [32m200 [0m38.872 ms - 451[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/updateUserDetails [32m200 [0m43.399 ms - 48[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+🚀 ~ this.tokenVerify ~ tokenRes: {
+  userId: '65c61c6a735fb67b4e8d7e81',
+  iat: 1707482218,
+  exp: 1707568618
+}
+[0mPOST /users/updateUserDetails [32m200 [0m43.121 ms - 48[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful

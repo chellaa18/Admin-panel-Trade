@@ -1,0 +1,255 @@
+Express server running on port 1234
+[0mGET / [32m200 [0m308.900 ms - 227[0m
+[0mGET /stylesheets/style.css [32m200 [0m7.783 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m21.073 ms - 160[0m
+Express server running on port 1234
+Express server running on port 1234
+[0mGET / [32m200 [0m280.640 ms - 263[0m
+[0mGET /style.css [33m404 [0m21.868 ms - 196[0m
+[0mGET / [36m304 [0m14.502 ms - -[0m
+[0mGET /style.css [33m404 [0m28.229 ms - 196[0m
+[0mGET / [36m304 [0m15.179 ms - -[0m
+[0mGET /style.css [33m404 [0m20.791 ms - 196[0m
+Express server running on port 1234
+[0mGET / [32m200 [0m187.339 ms - 237[0m
+[0mGET /style.css [33m404 [0m22.226 ms - 196[0m
+Express server running on port 1234
+Express server running on port 1234
+[0mGET / [32m200 [0m307.232 ms - 263[0m
+[0mGET /style.css [33m404 [0m22.739 ms - 196[0m
+[0mGET / [36m304 [0m13.871 ms - -[0m
+[0mGET /style.css [33m404 [0m21.449 ms - 196[0m
+Express server running on port 1234
+[0mGET / [36m304 [0m174.584 ms - -[0m
+[0mGET /style.css [33m404 [0m24.773 ms - 196[0m
+Express server running on port 1234
+Express server running on port 1234
+[0mPOST /encrypt [32m200 [0m19.430 ms - 49[0m
+[0mPOST /decrypt [32m200 [0m1.829 ms - 34[0m
+[0mPOST /encrypt [32m200 [0m1.589 ms - 89[0m
+Express server running on port 1234
+[0mPOST /encrypt [32m200 [0m17.816 ms - 49[0m
+Express server running on port 1234
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/getUserDetails [32m200 [0m3.526 ms - 49[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mGET /logsPm2 [32m200 [0m4.276 ms - -[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mGET /logsPm2 [32m200 [0m7.624 ms - 76246[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mGET /clearLogsPm2 [32m200 [0m9.311 ms - 9[0m
+[0mGET /logsPm2 [32m200 [0m1.460 ms - 65[0m
+[0mGET /logsPm2 [32m200 [0m1.451 ms - 113[0m
+[0mGET /logsPm2 [32m200 [0m0.919 ms - 162[0m
+[0mGET /logsPm2 [32m200 [0m1.568 ms - 211[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mGET /clearLogsPm2 [32m200 [0m7.192 ms - 9[0m
+[0mGET /logsPm2 [32m200 [0m1.467 ms - 66[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mGET /errorLogs [32m200 [0m8.882 ms - 73413[0m
+[0mGET /clearErrorLogs [32m200 [0m3.053 ms - 9[0m
+[0mGET /errorLogs [32m200 [0m1.247 ms - 14[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mGET /errorLogs [32m200 [0m10.161 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.336 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.922 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.642 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.732 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.524 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.447 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.679 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.087 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.747 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.640 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.594 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.093 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.757 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.492 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.502 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.627 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.851 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.465 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.753 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.486 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.585 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.088 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.844 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.447 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.530 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.085 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.255 ms - 13934[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mGET /errorLogs [32m200 [0m10.595 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.338 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.969 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.439 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.672 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.845 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.180 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.646 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m2.368 ms - 13934[0m
+[0mGET /errorLogs [32m200 [0m1.947 ms - 13934[0m
+[0mGET /errorLogs [33m429 [0m1.510 ms - 42[0m
+[0mGET /errorLogs [33m429 [0m2.394 ms - 42[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/createNewUser [32m200 [0m104.913 ms - 257[0m
+[0mPOST /users/getAllUserDetails [32m200 [0m2.685 ms - 66[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/getAllUserDetails [32m200 [0m40.132 ms - 251[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/getAllUserDetails [32m200 [0m42.425 ms - 261[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/createNewUser [32m200 [0m108.475 ms - 257[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/createNewUser [32m200 [0m45.967 ms - 63[0m
+[0mPOST /users/updateUserDetails [32m200 [0m17.380 ms - 48[0m
+[0mPOST /users/updateUserDetails [32m200 [0m5.397 ms - 48[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+🚀 ~ userModel.updateOne ~ userData: { n: 1, nModified: 1, ok: 1 }
+[0mPOST /users/updateUserDetails [32m200 [0m35.721 ms - 48[0m
+🚀 ~ userModel.updateOne ~ userData: { n: 1, nModified: 1, ok: 1 }
+[0mPOST /users/updateUserDetails [32m200 [0m6.151 ms - 48[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/updateUserDetails [32m200 [0m31.471 ms - 66[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/createNewUser [32m200 [0m47.502 ms - 275[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+🚀 ~ returnnewPromise ~ tok: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NWM2MWM2YTczNWZiNjdiNGU4ZDdlODEiLCJpYXQiOjE3MDc0ODIyMTgsImV4cCI6MTcwNzU2ODYxOH0.-uDkTgvJA5gE9Dkx5wkWD_NOWRZjKMG50xKysKy7c5M
+[0mPOST /users/createNewUser [32m200 [0m38.872 ms - 451[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+[0mPOST /users/updateUserDetails [32m200 [0m43.399 ms - 48[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
+🚀 ~ this.tokenVerify ~ tokenRes: {
+  userId: '65c61c6a735fb67b4e8d7e81',
+  iat: 1707482218,
+  exp: 1707568618
+}
+[0mPOST /users/updateUserDetails [32m200 [0m43.121 ms - 48[0m
+Express server running on port 1234
+dbconnection mongodb://localhost:27017/backendTask
+connection successful
